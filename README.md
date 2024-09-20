@@ -6,7 +6,7 @@
 - [#14568](https://www.acmicpc.net/problem/14568)
 - [#19532](https://www.acmicpc.net/problem/19532)
 - [#2503](https://www.acmicpc.net/problem/2503)
-- [#1090](https://www.acmicpc.net/problem/)
+- [#1090](https://www.acmicpc.net/problem/1090)
 
 ## 최적화 (정수론)
 
